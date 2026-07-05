@@ -1,220 +1,234 @@
-                                    Enterprise AI Query & Database Intelligence Platform
-                                                 <p align="center">
-
-🚀 Live Demo: https://nexus-ai-hbko.vercel.app/
-
+                                                          🚀 Nexus AI
+Enterprise AI-Powered Natural Language to SQL Platform
+<p align="center"> <img src="https://img.shields.io/badge/AI-Powered-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/Spring_Boot-Backend-success?style=for-the-badge"/> <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge"/> <img src="https://img.shields.io/badge/SQL-Generator-orange?style=for-the-badge"/> <img src="https://img.shields.io/badge/License-MIT-red?style=for-the-badge"/> </p>
+<p align="center">
+🤖 Ask Questions • ⚡ Generate SQL • 📊 Get Insights • 🚀 Faster Analytics
 </p>
-🌟 Overview
+🌐 Live Demo
 
-Nexus AI is an AI-powered enterprise data intelligence platform that converts Natural Language into SQL queries, executes them securely, and presents meaningful insights through an interactive dashboard.
+🚀 https://nexus-ai-hbko.vercel.app/
 
-Instead of writing complex SQL manually, users simply ask questions in plain English and Nexus AI generates optimized SQL using Large Language Models (LLMs).
+✨ What is Nexus AI?
 
-Example
+Imagine asking your database questions just like talking to a human.
 
-💬 "Show the top 10 customers by revenue this month."
+Instead of writing complicated SQL queries, simply type:
 
-⬇️
+💬 "Show the top 5 customers by revenue this month."
 
-🧠 AI generates SQL
+Nexus AI intelligently understands your request, generates optimized SQL, validates it for safety, executes it, and returns meaningful insights—all within seconds.
 
-⬇️
+🎬 How It Works
+                💬 User Question
+                       │
+                       ▼
+          🧠 AI Understands Intent
+                       │
+                       ▼
+         ⚡ Natural Language → SQL
+                       │
+                       ▼
+         🛡 SQL Validation Engine
+                       │
+                       ▼
+          🗄 Database Execution
+                       │
+                       ▼
+      📊 Beautiful Results Dashboard
+🎯 Key Features
+🤖 AI SQL Generator
 
-⚡ Executes Query
+✨ Convert English into SQL
 
-⬇️
+✨ Context-aware prompts
 
-📊 Displays Results Instantly
+✨ Optimized query generation
 
-✨ Features
-🧠 AI-Powered SQL Generation
-Convert Natural Language into SQL
-Intelligent query generation
-Supports multiple database schemas
-Fast response time
-📊 Interactive Dashboard
-Live analytics
-Query statistics
-Success rate
-Response latency
-AI usage metrics
-🔍 Schema Explorer
-Browse database tables
-View relationships
-Understand schema instantly
-Easy navigation
-📈 Query History
-Stores previous queries
-Re-run old queries
-Search history
-Track generated SQL
-🛡 SQL Safety Validation
+✨ Supports custom schemas
 
-Before execution, every generated SQL query is validated to prevent:
+🛡 Intelligent SQL Validator
 
-✅ Dangerous Statements
+Before executing a query, Nexus AI checks for:
 
-✅ SQL Injection
+✅ DROP
 
-✅ Unauthorized Operations
+✅ DELETE
 
-✅ Invalid Queries
+✅ TRUNCATE
 
-⚡ Secure Backend APIs
-Spring Boot REST APIs
-Query execution layer
-Error handling
-Input validation
-Modular architecture
-🎨 Modern UI
-Responsive Design
-Dark Mode
-Interactive Components
-Beautiful Dashboard
-Professional Animations
-🏗 Architecture
-                 User
-                  │
-                  ▼
-     Natural Language Question
-                  │
-                  ▼
-        React + TanStack Frontend
-                  │
-                  ▼
-        Spring Boot REST API
-                  │
-                  ▼
-         AI SQL Generation Engine
-                  │
-                  ▼
-        SQL Safety Validator
-                  │
-                  ▼
-        Database Execution Layer
-                  │
-                  ▼
-      Results + Analytics Dashboard
+✅ Unsafe Statements
+
+✅ SQL Injection Attempts
+
+📊 Enterprise Dashboard
+
+Monitor everything from one place
+
+📈 Query Analytics
+
+⚡ Response Time
+
+📊 Success Rate
+
+🧠 AI Requests
+
+📅 Recent Activity
+
+📜 Query History
+
+Never lose previous work.
+
+✔ Search Queries
+
+✔ Copy SQL
+
+✔ Re-run Queries
+
+✔ Query Tracking
+
+🗂 Schema Explorer
+
+Visualize your database structure
+
+Tables
+Columns
+Relationships
+Data Types
+🎨 Beautiful UI
+
+✔ Responsive
+
+✔ Dark Mode
+
+✔ Modern Components
+
+✔ Smooth Animations
+
+✔ Mobile Friendly
+
+🏗 System Architecture
+                  🌍 Browser
+                      │
+                      ▼
+             React + TypeScript
+                      │
+                      ▼
+              Spring Boot API
+                      │
+         ┌────────────┴─────────────┐
+         │                          │
+         ▼                          ▼
+  AI SQL Generator         SQL Validator
+         │                          │
+         └────────────┬─────────────┘
+                      ▼
+               Database Engine
+                      │
+                      ▼
+             Results & Analytics
 🛠 Tech Stack
-Frontend
-⚛ React
-🟦 TypeScript
-🎨 Tailwind CSS
-💎 ShadCN UI
-🚦 TanStack Router
-⚡ Vite
-Backend
-☕ Spring Boot
-Java
-REST APIs
-Maven
-AI
-🤖 Large Language Models (LLMs)
-Natural Language Processing
-Prompt Engineering
-SQL Generation
-Development Tools
-Git
-GitHub
-Docker
-VS Code
-🚀 Project Workflow
-User asks a question
-          │
-          ▼
-Natural Language Processing
-          │
-          ▼
-AI Generates SQL
-          │
-          ▼
-Safety Validation
-          │
-          ▼
-Execute Query
-          │
-          ▼
-Return Results
-          │
-          ▼
-Interactive Dashboard
-📂 Project Structure
-NexusAI
+Category	Technologies
+🎨 Frontend	React, TypeScript, Tailwind CSS, ShadCN UI
+⚙ Backend	Spring Boot, Java, Maven
+🤖 AI	LLM APIs, Prompt Engineering, NLP
+🗄 Database	SQL
+🚀 Deployment	Vercel
+🔧 Tools	Git, GitHub, VS Code
+⚡ Core Functionalities
+✅ Natural Language Processing
+
+⬇
+
+✅ AI Prompt Engineering
+
+⬇
+
+✅ SQL Generation
+
+⬇
+
+✅ SQL Validation
+
+⬇
+
+✅ Database Execution
+
+⬇
+
+✅ Analytics Dashboard
+
+⬇
+
+✅ Query History
+📸 Application Preview
+Dashboard	AI Query
+(Add Screenshot)	(Add Screenshot)
+Query History	Analytics
+(Add Screenshot)	(Add Screenshot)
+📁 Folder Structure
+Nexus-AI/
 │
-├── frontend
-│   ├── components
-│   ├── routes
-│   ├── pages
-│   ├── hooks
-│   └── assets
+├── frontend/
+│   ├── components/
+│   ├── hooks/
+│   ├── routes/
+│   ├── assets/
+│   └── pages/
 │
-├── backend
-│   ├── controller
-│   ├── service
-│   ├── dto
-│   ├── config
-│   ├── util
-│   └── resources
+├── backend/
+│   ├── controller/
+│   ├── service/
+│   ├── repository/
+│   ├── dto/
+│   ├── config/
+│   └── model/
 │
 └── README.md
-🎯 Key Highlights
-
-✨ Natural Language → SQL
-
-✨ AI-assisted Database Queries
-
-✨ Enterprise Dashboard
-
-✨ Secure Query Execution
-
-✨ SQL Validation Layer
-
-✨ Modular Backend Architecture
-
-✨ Responsive UI
-
-✨ Production Ready
-
-📸 Screenshots
-
-Add screenshots here
-
-🏠 Dashboard
-🤖 AI Query Generator
-📊 Analytics
-📜 Query History
-🗄 Schema Explorer
-⚙ Installation
+🚀 Quick Start
 Clone Repository
-git clone https://github.com/yourusername/NexusAI.git
-Frontend
+git clone https://github.com/yourusername/Nexus-AI.git
+Install Frontend
 cd frontend
 
 npm install
 
 npm run dev
-Backend
+Run Backend
 cd backend
 
 mvn spring-boot:run
-🌐 Live Demo
+🌟 Why Nexus AI?
 
-🚀 https://nexus-ai-hbko.vercel.app/
+✔ Enterprise Architecture
 
-💡 Future Enhancements
-📈 Data Visualization Charts
-🤖 AI Query Suggestions
-📊 Export Reports
-🔐 Authentication & Authorization
-🗂 Multi-Database Support
-📥 CSV / Excel Export
-📡 Real-time Monitoring
-☁ Cloud Deployment
+✔ AI-powered Query Generation
 
-👩‍💻 Author
+✔ Secure SQL Execution
+
+✔ Modern React Frontend
+
+✔ Spring Boot Backend
+
+✔ Responsive Dashboard
+
+✔ Recruiter-Friendly Project
+
+✔ Real-world Use Case
+
+🚧 Upcoming Features
+📊 Interactive Charts
+📈 AI Query Optimization
+📁 CSV / Excel Export
+☁ Multi Database Support
+🔐 JWT Authentication
+👥 Team Collaboration
+📉 Query Performance Analysis
+🤖 AI Chat Assistant
+📄 Report Generation
+🧠 RAG-based Database Documentation
+
+👩‍💻 Developer
 
 Divyadharshini
 
-💼 Computer Science Engineer
-
-🤖 AI • Full Stack Development • Machine Learning • Java • Spring Boot • React
+💙 AI Engineer | Full Stack Developer | Java | Spring Boot | React | SQL | Machine Learning
