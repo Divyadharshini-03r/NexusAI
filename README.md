@@ -1,5 +1,5 @@
-Enterprise AI Query & Database Intelligence Platform
-<p align="center">
+                                    Enterprise AI Query & Database Intelligence Platform
+                                                 <p align="center">
 
 🚀 Live Demo: https://nexus-ai-hbko.vercel.app/
 
