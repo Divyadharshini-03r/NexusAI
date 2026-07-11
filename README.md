@@ -160,11 +160,6 @@ Category	Technologies
 ⬇
 
 ✅ Query History
-📸 Application Preview
-Dashboard	AI Query
-(Add Screenshot)	(Add Screenshot)
-Query History	Analytics
-(Add Screenshot)	(Add Screenshot)
 📁 Folder Structure
 Nexus-AI/
 │
