@@ -1,5 +1,5 @@
                                                        🚀 Nexus AI
-Enterprise AI-Powered Natural Language to SQL Platform
+                                          Enterprise AI-Powered Natural Language to SQL Platform
 <p align="center"> <img src="https://img.shields.io/badge/AI-Powered-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/Spring_Boot-Backend-success?style=for-the-badge"/> <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge"/> <img src="https://img.shields.io/badge/SQL-Generator-orange?style=for-the-badge"/> 
 <p align="center">
 🤖 Ask Questions • ⚡ Generate SQL • 📊 Get Insights • 🚀 Faster Analytics
