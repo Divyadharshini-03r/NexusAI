@@ -19,6 +19,7 @@ Instead of writing complicated SQL queries, simply type:
 Nexus AI intelligently understands your request, generates optimized SQL, validates it for safety, executes it, and returns meaningful insights—all within seconds.
 
 🎬 How It Works
+
                 💬 User Question -->🧠 AI Understands Intent -->⚡ Natural Language → SQL -->🛡 SQL Validation Engine -->🗄 Database Execution --> 📊 Beautiful Results Dashboard
                 
 🎯 Key Features
@@ -93,6 +94,7 @@ Data Types
 ✔ Mobile Friendly
 
 🏗 System Architecture
+
                   🌍 Browser--> React + TypeScript --> Spring Boot API --> AI SQL Generator  <-->  SQL Validator ->Database Engine -> Results & Analytics
 🛠 Tech Stack
 Category	Technologies
