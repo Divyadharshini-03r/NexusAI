@@ -19,22 +19,8 @@ Instead of writing complicated SQL queries, simply type:
 Nexus AI intelligently understands your request, generates optimized SQL, validates it for safety, executes it, and returns meaningful insights—all within seconds.
 
 🎬 How It Works
-                💬 User Question
-                       │
-                       ▼
-          🧠 AI Understands Intent
-                       │
-                       ▼
-         ⚡ Natural Language → SQL
-                       │
-                       ▼
-         🛡 SQL Validation Engine
-                       │
-                       ▼
-          🗄 Database Execution
-                       │
-                       ▼
-      📊 Beautiful Results Dashboard
+                💬 User Question -->🧠 AI Understands Intent -->⚡ Natural Language → SQL -->🛡 SQL Validation Engine -->🗄 Database Execution --> 📊 Beautiful Results Dashboard
+                
 🎯 Key Features
 🤖 AI SQL Generator
 
@@ -107,25 +93,7 @@ Data Types
 ✔ Mobile Friendly
 
 🏗 System Architecture
-                  🌍 Browser
-                      │
-                      ▼
-             React + TypeScript
-                      │
-                      ▼
-              Spring Boot API
-                      │
-         ┌────────────┴─────────────┐
-         │                          │
-         ▼                          ▼
-  AI SQL Generator         SQL Validator
-         │                          │
-         └────────────┬─────────────┘
-                      ▼
-               Database Engine
-                      │
-                      ▼
-             Results & Analytics
+                  🌍 Browser--> React + TypeScript --> Spring Boot API --> AI SQL Generator  <-->  SQL Validator ->Database Engine -> Results & Analytics
 🛠 Tech Stack
 Category	Technologies
 🎨 Frontend	React, TypeScript, Tailwind CSS, ShadCN UI
@@ -135,50 +103,7 @@ Category	Technologies
 🚀 Deployment	Vercel
 🔧 Tools	Git, GitHub, VS Code
 ⚡ Core Functionalities
-✅ Natural Language Processing
-
-⬇
-
-✅ AI Prompt Engineering
-
-⬇
-
-✅ SQL Generation
-
-⬇
-
-✅ SQL Validation
-
-⬇
-
-✅ Database Execution
-
-⬇
-
-✅ Analytics Dashboard
-
-⬇
-
-✅ Query History
-📁 Folder Structure
-Nexus-AI/
-│
-├── frontend/
-│   ├── components/
-│   ├── hooks/
-│   ├── routes/
-│   ├── assets/
-│   └── pages/
-│
-├── backend/
-│   ├── controller/
-│   ├── service/
-│   ├── repository/
-│   ├── dto/
-│   ├── config/
-│   └── model/
-│
-└── README.md
+✅ Natural Language Processing ->> ✅ AI Prompt Engineering ->> ✅ SQL Generation ->> ✅ SQL Validation ->>✅ Database Execution ->> ✅ Analytics Dashboard ->> ✅ Query History
 🚀 Quick Start
 Clone Repository
 git clone https://github.com/yourusername/Nexus-AI.git
