@@ -95,7 +95,7 @@ Data Types
 
 🏗 System Architecture
 
-                  🌍 Browser--> React + TypeScript --> Spring Boot API --> AI SQL Generator  <-->  SQL Validator ->Database Engine -> Results & Analytics
+                🌍 Browser--> React + TypeScript --> Spring Boot API --> AI SQL Generator  <-->  SQL Validator ->Database Engine -> Results & Analytics
 🛠 Tech Stack
 Category	Technologies
 🎨 Frontend	React, TypeScript, Tailwind CSS, ShadCN UI
@@ -104,8 +104,11 @@ Category	Technologies
 🗄 Database	SQL
 🚀 Deployment	Vercel
 🔧 Tools	Git, GitHub, VS Code
+
+
 ⚡ Core Functionalities
-✅ Natural Language Processing ->> ✅ AI Prompt Engineering ->> ✅ SQL Generation ->> ✅ SQL Validation ->>✅ Database Execution ->> ✅ Analytics Dashboard ->> ✅ Query History
+ 
+             ✅ Natural Language Processing ->> ✅ AI Prompt Engineering ->> ✅ SQL Generation ->> ✅ SQL Validation ->>✅ Database Execution ->> ✅ Analytics Dashboard ->> ✅ Query History
 🚀 Quick Start
 Clone Repository
 git clone https://github.com/yourusername/Nexus-AI.git
