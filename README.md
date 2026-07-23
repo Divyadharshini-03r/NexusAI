@@ -111,7 +111,7 @@ Category	Technologies
              ✅ Natural Language Processing ->> ✅ AI Prompt Engineering ->> ✅ SQL Generation ->> ✅ SQL Validation ->>✅ Database Execution ->> ✅ Analytics Dashboard ->> ✅ Query History
 🚀 Quick Start
 Clone Repository
-git clone https://github.com/yourusername/Nexus-AI.git
+git clone https://github.com/Divyadharshini-03r/Nexus-AI.git
 Install Frontend
 cd frontend
 
@@ -155,5 +155,3 @@ mvn spring-boot:run
 👩‍💻 Developer
 
 Divyadharshini
-
-💙 AI Engineer | Full Stack Developer | Java | Spring Boot | React | SQL | Machine Learning
