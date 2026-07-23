@@ -111,7 +111,7 @@ Category	Technologies
              ✅ Natural Language Processing ->> ✅ AI Prompt Engineering ->> ✅ SQL Generation ->> ✅ SQL Validation ->>✅ Database Execution ->> ✅ Analytics Dashboard ->> ✅ Query History
 🚀 Quick Start
 Clone Repository
-git clone https://github.com/Divyadharshini-03r/Nexus-AI.git
+git clone https://github.com/Divyadharshini-03r/NexusAI
 Install Frontend
 cd frontend
 
