@@ -97,13 +97,13 @@ Data Types
 
                 🌍 Browser--> React + TypeScript --> Spring Boot API --> AI SQL Generator  <-->  SQL Validator ->Database Engine -> Results & Analytics
 🛠 Tech Stack
-Category	Technologies
-🎨 Frontend	React, TypeScript, Tailwind CSS, ShadCN UI
-⚙ Backend	Spring Boot, Java, Maven
-🤖 AI	LLM APIs, Prompt Engineering, NLP
-🗄 Database	SQL
-🚀 Deployment	Vercel
-🔧 Tools	Git, GitHub, VS Code
+| Category	| Technologies |
+|🎨 Frontend | 	React, TypeScript, Tailwind CSS |
+|⚙ Backend	| Spring Boot, Java, Maven |
+|🤖 AI	| LLM APIs, Prompt Engineering, NLP |
+|🗄 Database | SQL |
+|🚀 Deployment |	Vercel |
+\🔧 Tools	| Git, GitHub, VS Code |
 
 
 ⚡ Core Functionalities
