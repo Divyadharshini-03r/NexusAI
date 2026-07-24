@@ -152,3 +152,9 @@ Nexus AI understands your request using AI, generates optimized SQL, validates i
 Developed by:
 
   Divyadharshini R
+
+<div align="center">
+  
+  Turn questions into columns!
+
+</div>
