@@ -137,6 +137,7 @@ Nexus AI understands your request using AI, generates optimized SQL, validates i
         Dashboard & Analytics
         
 🌟 **Future Roadmap**
+
 📊 Interactive Charts
 📈 AI Query Optimization
 📁 CSV Export
