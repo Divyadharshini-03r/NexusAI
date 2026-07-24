@@ -96,14 +96,17 @@ Data Types
 🏗 System Architecture
 
                 🌍 Browser--> React + TypeScript --> Spring Boot API --> AI SQL Generator  <-->  SQL Validator ->Database Engine -> Results & Analytics
-🛠 Tech Stack
-| Category	| Technologies |
-|🎨 Frontend | 	React, TypeScript, Tailwind CSS |
-|⚙ Backend	| Spring Boot, Java, Maven |
-|🤖 AI	| LLM APIs, Prompt Engineering, NLP |
-|🗄 Database | SQL |
-|🚀 Deployment |	Vercel |
-\🔧 Tools	| Git, GitHub, VS Code |
+
+ ## 🛠 Tech Stack
+
+| Category | Technologies |
+|:---------|:-------------|
+| 🎨 **Frontend** | <img src="https://skillicons.dev/icons?i=react,ts,tailwind" height="28"> |
+| ⚙ **Backend** | <img src="https://skillicons.dev/icons?i=java,spring,maven" height="28"> |
+| 🤖 **AI** | LLM APIs • Prompt Engineering • NLP |
+| 🗄 **Database** | <img src="https://skillicons.dev/icons?i=mysql" height="28"> SQL |
+| 🚀 **Deployment** | <img src="https://skillicons.dev/icons?i=vercel" height="28"> |
+| 🔧 **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode" height="28"> |
 
 
 ⚡ Core Functionalities
