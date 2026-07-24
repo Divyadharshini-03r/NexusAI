@@ -1,160 +1,149 @@
-                                                       🚀 Nexus AI
-                                          Enterprise AI-Powered Natural Language to SQL Platform
-<p align="center"> <img src="https://img.shields.io/badge/AI-Powered-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/Spring_Boot-Backend-success?style=for-the-badge"/> <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge"/> <img src="https://img.shields.io/badge/SQL-Generator-orange?style=for-the-badge"/> 
+<h1 align="center">
+🚀 Nexus AI
+</h1>
+
+<h3 align="center">
+Enterprise AI-Powered Natural Language to SQL Platform
+</h3>
+
 <p align="center">
-🤖 Ask Questions • ⚡ Generate SQL • 📊 Get Insights • 🚀 Faster Analytics
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3500&pause=800&color=00C2FF&center=true&vCenter=true&width=950&lines=Natural+Language+to+SQL;Enterprise+AI+Analytics;Spring+Boot+%2B+React+Platform;Secure+AI+Query+Generation;Built+for+Modern+Businesses" />
 </p>
-🌐 Live Demo
 
-🚀 https://nexus-ai-hbko.vercel.app/
+<p align="center">
+<img src="https://img.shields.io/badge/AI-Powered-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SpringBoot-Backend-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI-LLM-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MySQL-Database-orange?style=for-the-badge"/>
+</p>
 
-✨ What is Nexus AI?
+# 🌍 Live Demo
 
-Imagine asking your database questions just like talking to a human.
+<p align="center">
 
-Instead of writing complicated SQL queries, simply type:
+### 🚀 https://nexus-ai-hbko.vercel.app/
 
-💬 "Show the top 5 customers by revenue this month."
-
-Nexus AI intelligently understands your request, generates optimized SQL, validates it for safety, executes it, and returns meaningful insights—all within seconds.
-
-🎬 How It Works
-
-                💬 User Question -->🧠 AI Understands Intent -->⚡ Natural Language → SQL -->🛡 SQL Validation Engine -->🗄 Database Execution --> 📊 Beautiful Results Dashboard
-                
-🎯 Key Features
-🤖 AI SQL Generator
-
-✨ Convert English into SQL
-
-✨ Context-aware prompts
-
-✨ Optimized query generation
-
-✨ Supports custom schemas
-
-🛡 Intelligent SQL Validator
-
-Before executing a query, Nexus AI checks for:
-
-✅ DROP
-
-✅ DELETE
-
-✅ TRUNCATE
-
-✅ Unsafe Statements
-
-✅ SQL Injection Attempts
-
-📊 Enterprise Dashboard
-
-Monitor everything from one place
-
-📈 Query Analytics
-
-⚡ Response Time
-
-📊 Success Rate
-
-🧠 AI Requests
-
-📅 Recent Activity
-
-📜 Query History
-
-Never lose previous work.
-
-✔ Search Queries
-
-✔ Copy SQL
-
-✔ Re-run Queries
-
-✔ Query Tracking
-
-🗂 Schema Explorer
-
-Visualize your database structure
-
-Tables
-Columns
-Relationships
-Data Types
-🎨 Beautiful UI
-
-✔ Responsive
-
-✔ Dark Mode
-
-✔ Modern Components
-
-✔ Smooth Animations
-
-✔ Mobile Friendly
-
-🏗 System Architecture
-
-                🌍 Browser--> React + TypeScript --> Spring Boot API --> AI SQL Generator  <-->  SQL Validator ->Database Engine -> Results & Analytics
-
- ## 🛠 Tech Stack
-
-| Category | Technologies |
-|:---------|:-------------|
-| 🎨 **Frontend** | <img src="https://skillicons.dev/icons?i=react,ts,tailwind" height="28"> |
-| ⚙ **Backend** | <img src="https://skillicons.dev/icons?i=java,spring,maven" height="28"> |
-| 🤖 **AI** | LLM APIs • Prompt Engineering • NLP |
-| 🗄 **Database** | <img src="https://skillicons.dev/icons?i=mysql" height="28"> SQL |
-| 🚀 **Deployment** | <img src="https://skillicons.dev/icons?i=vercel" height="28"> |
-| 🔧 **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode" height="28"> |
+</p>
 
 
-⚡ Core Functionalities
- 
-             ✅ Natural Language Processing ->> ✅ AI Prompt Engineering ->> ✅ SQL Generation ->> ✅ SQL Validation ->>✅ Database Execution ->> ✅ Analytics Dashboard ->> ✅ Query History
-🚀 Quick Start
-Clone Repository
-git clone https://github.com/Divyadharshini-03r/NexusAI
-Install Frontend
-cd frontend
+# ✨ Overview
 
-npm install
+Imagine asking your database questions exactly like talking to ChatGPT.
 
-npm run dev
-Run Backend
-cd backend
+Instead of writing long SQL queries, simply type:
 
-mvn spring-boot:run
-🌟 Why Nexus AI?
+> 💬 *"Show the top 5 customers by revenue this month."*
 
-✔ Enterprise Architecture
+Nexus AI understands your request using AI, generates optimized SQL, validates it against malicious operations, executes it securely, and instantly presents insightful analytics through an elegant dashboard.
 
-✔ AI-powered Query Generation
 
-✔ Secure SQL Execution
+🎬 Animated Workflow
+                    👤 User
 
-✔ Modern React Frontend
+                       │
+                       ▼
 
-✔ Spring Boot Backend
+           💬 Natural Language Question
 
-✔ Responsive Dashboard
+                       │
+                       ▼
 
-✔ Recruiter-Friendly Project
+             🧠 Large Language Model
 
-✔ Real-world Use Case
+                       │
+                       ▼
 
-🚧 Upcoming Features
+          ⚡ AI SQL Generation Engine
+
+                       │
+                       ▼
+
+          🛡 SQL Validation & Security
+
+                       │
+                       ▼
+
+            🗄 Database Execution
+
+                       │
+                       ▼
+
+          📊 Beautiful Analytics Dashboard
+
+
+# 🚀 Features
+
+| 🤖 AI | 🔒 Security | 📊 Analytics |
+|------|------|------|
+| Natural Language → SQL | SQL Injection Detection | Dashboard |
+| Context Aware Prompting | Query Validation | Charts |
+| Prompt Engineering | Safe Execution | Reports |
+
+| ⚡ Productivity | 📚 Database | 🎨 UI |
+|------|------|------|
+| Query History | Schema Explorer | Responsive |
+| Copy SQL | Relationship Mapping | Dark Mode |
+| Re-run Queries | Table Preview | Animations |
+
+## 🛠 Tech Stack
+
+| Technology | Stack |
+|------------|-------|
+| 🎨 Frontend | <img src="https://skillicons.dev/icons?i=react,ts,tailwind,vite" height="30"/> |
+| ⚙ Backend | <img src="https://skillicons.dev/icons?i=java,spring,maven" height="30"/> |
+| 🗄 Database | <img src="https://skillicons.dev/icons?i=mysql" height="30"/> |
+| 🤖 AI | OpenAI • Prompt Engineering • NLP |
+| ☁ Deployment | <img src="https://skillicons.dev/icons?i=vercel" height="30"/> |
+| 🔧 Tools | <img src="https://skillicons.dev/icons?i=git,github,vscode" height="30"/> |
+
+## 📈 Architecture Diagram
+
+             🌐 Browser
+
+                 │
+
+                 ▼
+
+       React + TypeScript UI
+
+                 │
+
+                 ▼
+
+        Spring Boot REST API
+
+                 │
+
+         ┌───────┴────────┐
+
+         ▼                ▼
+
+ AI SQL Generator     SQL Validator
+
+         │                │
+
+         └───────┬────────┘
+
+                 ▼
+
+          MySQL Database
+
+                 │
+
+                 ▼
+
+        Dashboard & Analytics
+        
+🌟 **Future Roadmap**
 📊 Interactive Charts
 📈 AI Query Optimization
-📁 CSV / Excel Export
-☁ Multi Database Support
+📁 CSV Export
+☁ PostgreSQL Support
+☁ MongoDB Support
 🔐 JWT Authentication
 👥 Team Collaboration
-📉 Query Performance Analysis
+📉 Performance Monitoring
 🤖 AI Chat Assistant
-📄 Report Generation
-🧠 RAG-based Database Documentation
-
-👩‍💻 Developer
-
-Divyadharshini
+🧠 RAG Database Documentation
