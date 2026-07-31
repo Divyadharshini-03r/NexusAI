@@ -139,15 +139,15 @@ Nexus AI understands your request using AI, generates optimized SQL, validates i
 ## 🌟 Future Roadmap
 
 ✔ 📊 Interactive Charts
-📈 AI Query Optimization
-📁 CSV Export
-☁ PostgreSQL Support
-☁ MongoDB Support
-🔐 JWT Authentication
-👥 Team Collaboration
-📉 Performance Monitoring
-🤖 AI Chat Assistant
-🧠 RAG Database Documentation
+✔ 📈 AI Query Optimization
+✔ 📁 CSV Export
+✔ ☁ PostgreSQL Support
+✔ ☁ MongoDB Support
+✔ 🔐 JWT Authentication
+✔ 👥 Team Collaboration
+✔ 📉 Performance Monitoring
+✔ 🤖 AI Chat Assistant
+✔ 🧠 RAG Database Documentation
 
 Developed by:
 
