@@ -19,13 +19,6 @@ Enterprise AI-Powered Natural Language to SQL Platform
 <img src="https://img.shields.io/badge/MySQL-Database-orange?style=for-the-badge"/>
 </p>
 
-# 🌍 Live Demo
-
-<p align="center">
-
-### 🚀 https://nexus-ai-hbko.vercel.app/
-
-</p>
 
 
 # ✨ Overview
