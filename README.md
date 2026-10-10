@@ -74,11 +74,13 @@ Nexus AI understands your request using AI, generates optimized SQL, validates i
 | Context Aware Prompting | Query Validation | Charts |
 | Prompt Engineering | Safe Execution | Reports |
 
+
 | ⚡ Productivity | 📚 Database | 🎨 UI |
 |------|------|------|
 | Query History | Schema Explorer | Responsive |
 | Copy SQL | Relationship Mapping | Dark Mode |
 | Re-run Queries | Table Preview | Animations |
+
 
 ## 🛠 Tech Stack
 
