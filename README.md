@@ -150,6 +150,6 @@ Developed by:
 
 <div align="center">
   
- ## Turn questions into columns📊!
+ ## Turn questions into columns📊
 
 </div>
